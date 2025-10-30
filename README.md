@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <title>Profil Saya - Maghfiroh</title>
+<title>Profil Saya - Maghfiroh</title>
         <link rel="stylesheet" href="style.css">
 </head>
 <body>
