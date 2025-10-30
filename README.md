@@ -2,13 +2,13 @@
 <html>
 <head>
         <title>Profil Saya - Maghfiroh</title>
-        <link rel="stylesheet"
+        <link rel="stylesheet" href="style.css">
 </head>
 <body>
         <div class="kartu-profil">
         <img src= "https://github.com/matchaci0/portofolio_fraa0/blob/63abaff9b5dce1f52bcc771d012eb7acb2b37518/Screenshot%20(2).png" alt="fotoprofil">
-        <h1>maghfiroh oktavia munir</h1>
-        <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p></p></h1>
+        <h1>Maghfiroh Oktavia Munir</h1>
+        <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
         <a href="https://www.instagram.com/_whosfraa4/">Kunjungi Instagram Saya</a>
         <button id="sapaButton">Sapa Saya!</button>
     </div>
