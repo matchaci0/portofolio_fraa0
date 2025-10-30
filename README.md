@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-      <title>Profil Saya</title>
-      <link rel="stylesheet"
+<title>Profil Saya</title>
+<link rel="stylesheet"
   </head>
   <body>
     <div class="kartu-profil">
