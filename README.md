@@ -1,1 +1,17 @@
-# portofolio_fraa0
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Profil Saya</title>
+      <link rel="stylesheet"
+  </head>
+  <body>
+    <div class="kartu-profil">
+    <img src= "foto-profil.jpg" alt="fotoprofil">
+    <h1>Nama Lengkap Anda</h1>
+    <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p></p></h1>
+    <a href="https://www.instagram.com/_whosfraa4/">Kunjungi Instagram Saya</a>
+      <button id="sapaButton">Sapa Saya!</button>
+    </div>div>
+    <script src="script.js"></script>
+  </body>
+    </html>
